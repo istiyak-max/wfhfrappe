@@ -37,5 +37,15 @@
         "required": [],
         "idx": 4,
         "version": "16.0.0-dev"
+    },
+    "fleet_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "2bb0b402087fd11f45c4244713a2e68f631a8954",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
     }
 }
