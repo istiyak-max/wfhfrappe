@@ -1,0 +1,14 @@
+# Bench & ERPNext auto-generated files
+logs/
+sites/*/private/
+sites/*/locks/
+sites/assets/
+node_modules/
+env/
+*.pyc
+__pycache__/
+*.log
+*.swp
+*.swo
+*.sqlite3
+*.DS_Store
